@@ -1,4 +1,0 @@
-mlruns/*
-mlartifacts/*
-.venv
-__pycache__
