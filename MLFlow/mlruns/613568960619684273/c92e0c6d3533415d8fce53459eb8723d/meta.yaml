@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/c92e0c6d3533415d8fce53459eb8723d/artifacts
+end_time: 1758546802499
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: c92e0c6d3533415d8fce53459eb8723d
+run_name: fun-shrew-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546800992
+status: 3
+tags: []
+user_id: khatir

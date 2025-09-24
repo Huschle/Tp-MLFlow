@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/dde58ab365de466cb04754aef34e3db4/artifacts
+end_time: 1757945905522
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: dde58ab365de466cb04754aef34e3db4
+run_name: amusing-dog-862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757945904197
+status: 3
+tags: []
+user_id: khatir

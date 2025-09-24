@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/01dc00e6f70a432c83d8c449278c0242/artifacts
+end_time: 1757946766563
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 01dc00e6f70a432c83d8c449278c0242
+run_name: painted-kite-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757946765131
+status: 3
+tags: []
+user_id: khatir

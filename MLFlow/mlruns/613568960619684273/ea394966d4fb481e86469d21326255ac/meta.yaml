@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/ea394966d4fb481e86469d21326255ac/artifacts
+end_time: 1758547558272
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: ea394966d4fb481e86469d21326255ac
+run_name: powerful-ram-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758547556499
+status: 3
+tags: []
+user_id: khatir

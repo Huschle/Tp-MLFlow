@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/bee9598030ba4545b2e404fb28d82776/artifacts
+end_time: 1757945664440
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: bee9598030ba4545b2e404fb28d82776
+run_name: awesome-flea-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757945663063
+status: 3
+tags: []
+user_id: khatir

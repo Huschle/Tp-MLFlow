@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/b06ab40fcc7347b1a31663df84599f14/artifacts
+end_time: 1758546562229
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: b06ab40fcc7347b1a31663df84599f14
+run_name: clumsy-snail-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546560377
+status: 3
+tags: []
+user_id: khatir

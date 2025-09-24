@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/23d3fc7078474e91adacf8ab1d588203/artifacts
+end_time: 1758549460440
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 23d3fc7078474e91adacf8ab1d588203
+run_name: bittersweet-pig-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758549458726
+status: 3
+tags: []
+user_id: khatir

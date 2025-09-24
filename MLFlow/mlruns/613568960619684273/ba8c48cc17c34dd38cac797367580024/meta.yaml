@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/ba8c48cc17c34dd38cac797367580024/artifacts
+end_time: 1758549450880
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: ba8c48cc17c34dd38cac797367580024
+run_name: rumbling-mouse-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758549449047
+status: 3
+tags: []
+user_id: khatir

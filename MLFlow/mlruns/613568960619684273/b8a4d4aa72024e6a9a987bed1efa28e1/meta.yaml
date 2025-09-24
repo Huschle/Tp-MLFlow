@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/b8a4d4aa72024e6a9a987bed1efa28e1/artifacts
+end_time: 1758546343098
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: b8a4d4aa72024e6a9a987bed1efa28e1
+run_name: adaptable-bass-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546341701
+status: 3
+tags: []
+user_id: khatir

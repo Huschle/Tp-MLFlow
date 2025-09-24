@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/4587eaa5c8e549198d0d72c76a4110a8/artifacts
+end_time: 1758549950983
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 4587eaa5c8e549198d0d72c76a4110a8
+run_name: salty-lamb-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758549949263
+status: 3
+tags: []
+user_id: khatir

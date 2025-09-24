@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/d00f6e9b8dbc495eb00b4a2c133323a1/artifacts
+end_time: 1757946696821
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: d00f6e9b8dbc495eb00b4a2c133323a1
+run_name: clumsy-chimp-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757946695321
+status: 3
+tags: []
+user_id: khatir

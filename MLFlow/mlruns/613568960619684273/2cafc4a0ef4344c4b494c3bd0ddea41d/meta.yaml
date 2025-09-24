@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/2cafc4a0ef4344c4b494c3bd0ddea41d/artifacts
+end_time: 1758546771362
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 2cafc4a0ef4344c4b494c3bd0ddea41d
+run_name: worried-dolphin-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546769858
+status: 3
+tags: []
+user_id: khatir

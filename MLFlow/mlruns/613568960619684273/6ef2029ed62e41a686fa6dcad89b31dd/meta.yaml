@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/6ef2029ed62e41a686fa6dcad89b31dd/artifacts
+end_time: 1757941948786
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 6ef2029ed62e41a686fa6dcad89b31dd
+run_name: big-gnu-933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757941946475
+status: 3
+tags: []
+user_id: khatir

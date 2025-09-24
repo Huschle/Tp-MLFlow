@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/87035a96af7a4cb99017c6d221e5b55e/artifacts
+end_time: 1757946485844
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 87035a96af7a4cb99017c6d221e5b55e
+run_name: traveling-midge-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757946484381
+status: 3
+tags: []
+user_id: khatir

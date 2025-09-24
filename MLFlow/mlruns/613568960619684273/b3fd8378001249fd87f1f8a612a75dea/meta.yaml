@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/b3fd8378001249fd87f1f8a612a75dea/artifacts
+end_time: 1757947323226
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: b3fd8378001249fd87f1f8a612a75dea
+run_name: unruly-calf-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757947321776
+status: 3
+tags: []
+user_id: khatir

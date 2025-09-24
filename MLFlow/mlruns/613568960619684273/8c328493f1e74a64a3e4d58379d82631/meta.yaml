@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/8c328493f1e74a64a3e4d58379d82631/artifacts
+end_time: 1757947046764
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 8c328493f1e74a64a3e4d58379d82631
+run_name: caring-fawn-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757947045333
+status: 3
+tags: []
+user_id: khatir

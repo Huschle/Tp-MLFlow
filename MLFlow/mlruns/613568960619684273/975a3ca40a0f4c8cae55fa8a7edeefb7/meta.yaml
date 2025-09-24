@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/975a3ca40a0f4c8cae55fa8a7edeefb7/artifacts
+end_time: 1758553106285
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 975a3ca40a0f4c8cae55fa8a7edeefb7
+run_name: marvelous-conch-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758553104497
+status: 3
+tags: []
+user_id: root

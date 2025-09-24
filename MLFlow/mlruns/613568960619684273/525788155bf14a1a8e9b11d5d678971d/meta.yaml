@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/525788155bf14a1a8e9b11d5d678971d/artifacts
+end_time: 1757946832185
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 525788155bf14a1a8e9b11d5d678971d
+run_name: unique-quail-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757946830766
+status: 3
+tags: []
+user_id: khatir

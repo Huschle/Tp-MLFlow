@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/613568960619684273/models/m-5d0a8ea0e3624eddb4a21834155f67c8/artifacts
+creation_timestamp: 1758545664394
+experiment_id: '613568960619684273'
+last_updated_timestamp: 1758545665701
+model_id: m-5d0a8ea0e3624eddb4a21834155f67c8
+model_type: ''
+name: iris_model
+source_run_id: 57429d749313413a9bfbf8d86eab86aa
+status: 2
+status_message: null

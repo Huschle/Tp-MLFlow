@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/57429d749313413a9bfbf8d86eab86aa/artifacts
+end_time: 1758545665777
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 57429d749313413a9bfbf8d86eab86aa
+run_name: caring-hare-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758545664351
+status: 3
+tags: []
+user_id: khatir

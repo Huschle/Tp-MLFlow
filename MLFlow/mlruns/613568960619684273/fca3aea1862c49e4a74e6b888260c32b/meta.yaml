@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/fca3aea1862c49e4a74e6b888260c32b/artifacts
+end_time: 1758546946904
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: fca3aea1862c49e4a74e6b888260c32b
+run_name: traveling-moose-933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546945457
+status: 3
+tags: []
+user_id: khatir

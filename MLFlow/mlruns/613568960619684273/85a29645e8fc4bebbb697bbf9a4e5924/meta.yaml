@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/85a29645e8fc4bebbb697bbf9a4e5924/artifacts
+end_time: 1758546820575
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 85a29645e8fc4bebbb697bbf9a4e5924
+run_name: bedecked-tern-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546819103
+status: 3
+tags: []
+user_id: khatir

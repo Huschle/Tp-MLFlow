@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/2af153c6f7ee463d825f50af7a21f796/artifacts
+end_time: 1758546938004
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 2af153c6f7ee463d825f50af7a21f796
+run_name: rogue-smelt-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546936512
+status: 3
+tags: []
+user_id: khatir

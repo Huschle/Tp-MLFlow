@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/a0dbd05b3bfb4b57a48a02abb1a3d22d/artifacts
+end_time: 1758546066888
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: a0dbd05b3bfb4b57a48a02abb1a3d22d
+run_name: merciful-midge-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546065485
+status: 3
+tags: []
+user_id: khatir

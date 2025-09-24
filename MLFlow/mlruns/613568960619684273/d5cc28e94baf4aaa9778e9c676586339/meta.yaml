@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/d5cc28e94baf4aaa9778e9c676586339/artifacts
+end_time: 1758547548756
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: d5cc28e94baf4aaa9778e9c676586339
+run_name: funny-yak-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758547547005
+status: 3
+tags: []
+user_id: khatir

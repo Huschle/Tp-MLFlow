@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/196104b02b444fd5babf9a52c341a0bc/artifacts
+end_time: 1757944654494
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 196104b02b444fd5babf9a52c341a0bc
+run_name: lyrical-bug-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757944652063
+status: 3
+tags: []
+user_id: khatir

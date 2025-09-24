@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/613568960619684273/4f5f6049f0614a36a7ce3964e7bc2ae1/artifacts
+end_time: 1758547223815
+entry_point_name: ''
+experiment_id: '613568960619684273'
+lifecycle_stage: active
+run_id: 4f5f6049f0614a36a7ce3964e7bc2ae1
+run_name: treasured-snail-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758547222332
+status: 3
+tags: []
+user_id: khatir
